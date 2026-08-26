@@ -4,7 +4,7 @@ P5 is a portfolio case study for a governed AI product in healthcare revenue cyc
 
 > Built with synthetic claims data. No real patient data is used, and no financial result is presented as an employer outcome.
 
-[Read the architecture and product summary](docs/P5-System-Summary.pdf)
+[Architecture summary](docs/P5-System-Summary.pdf) · [BA documentation library](docs/documentation-library.md) · [Figma UI designs](https://www.figma.com/design/SqbwqJfu9AD5mTz3aHrRzs/P5-UI-Design?node-id=0-1&p=f) · [System and process models](https://github.com/AmrThabetA/p5-system-and-process-models)
 
 ![P5 product concept](assets/p5-cover.png)
 
@@ -23,6 +23,8 @@ P5 separates interpretation from calculation: the language model routes the requ
 | Audit Console | Admin/auditor | Inspect actions, parameters, versions, evidence, and access decisions | Designed; persistent audit service and UI not implemented |
 
 [Executive Insight design](assets/executive-insight.png) · [Analyst Workbench design](assets/analyst-workbench.png) · [Audit Console design](assets/audit-console.png)
+
+[Open the full P5 UI design in Figma](https://www.figma.com/design/SqbwqJfu9AD5mTz3aHrRzs/P5-UI-Design?node-id=0-1&p=f)
 
 ## What is implemented
 
@@ -54,7 +56,7 @@ The case study is supported by a structured product-delivery package:
 
 [View the sanitized Jira backlog](assets/jira-backlog-snapshot.svg)
 
-[Review the BA and product scope](docs/ba-product-scope.md) · [See the delivery evidence register](docs/delivery-evidence.md) · [Read three Jira story samples](docs/jira-story-samples.md) · [Read the public glossary sample](docs/glossary-sample.md)
+[Browse the BA documentation library](docs/documentation-library.md) · [Review the BA and product scope](docs/ba-product-scope.md) · [See the delivery evidence register](docs/delivery-evidence.md) · [Read three Jira story samples](docs/jira-story-samples.md)
 
 ## Verification evidence
 
@@ -90,7 +92,7 @@ These results support the backend case study; they are not UAT acceptance or rel
 
 | Area | Contents |
 |---|---|
-| [`docs/`](docs/) | System summary, BA/product scope, evidence register, glossary, and roadmap |
-| [`diagrams/`](diagrams/) | Current architecture visual and planned model exports |
+| [`docs/`](docs/) | System summary, requirements, traceability, governance, Jira backlog, and roadmap |
+| [`diagrams/`](diagrams/) | Current architecture visual; the full model catalogue is in the separate system-and-process-models repository |
 | [`assets/`](assets/) | Product design visuals and sanitized Jira backlog snapshot |
 | [`evaluations/`](evaluations/) | Verification evidence and limitations |
