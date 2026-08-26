@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Sanitized P5 Jira backlog snapshot</title>
+  <desc id="desc">Ten epics contain fifty-two draft pre-baseline stories across governance, data onboarding, semantic services, product surfaces, denial management, audit, operations, and deferred scope.</desc>
+  <rect width="1600" height="900" fill="#ffffff"/>
+  <rect x="0" y="0" width="1600" height="126" fill="#052b63"/>
+  <text x="72" y="54" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="3">P5 · PRODUCT DELIVERY EVIDENCE</text>
+  <text x="72" y="94" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">Sanitized Jira backlog snapshot</text>
+  <text x="1528" y="78" text-anchor="end" fill="#bac8da" font-family="Arial, Helvetica, sans-serif" font-size="17">26 Aug 2026</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="72" y="154" width="300" height="86" rx="6" fill="#f3f6fa"/>
+    <text x="96" y="187" fill="#6b7b91" font-size="15" font-weight="700" letter-spacing="1.5">EPICS</text>
+    <text x="96" y="224" fill="#052b63" font-size="31" font-weight="700">10</text>
+
+    <rect x="396" y="154" width="300" height="86" rx="6" fill="#f3f6fa"/>
+    <text x="420" y="187" fill="#6b7b91" font-size="15" font-weight="700" letter-spacing="1.5">STORIES</text>
+    <text x="420" y="224" fill="#052b63" font-size="31" font-weight="700">52</text>
+
+    <rect x="720" y="154" width="390" height="86" rx="6" fill="#f3f6fa"/>
+    <text x="744" y="187" fill="#6b7b91" font-size="15" font-weight="700" letter-spacing="1.5">WORKFLOW STATUS</text>
+    <text x="744" y="223" fill="#052b63" font-size="24" font-weight="700">Idea</text>
+
+    <rect x="1134" y="154" width="394" height="86" rx="6" fill="#fff1f2"/>
+    <text x="1158" y="187" fill="#a11226" font-size="15" font-weight="700" letter-spacing="1.5">GOVERNANCE STATUS</text>
+    <text x="1158" y="223" fill="#a11226" font-size="23" font-weight="700">Draft / pre-baseline</text>
+
+    <text x="72" y="287" fill="#052b63" font-size="20" font-weight="700">Portfolio structure</text>
+    <line x1="72" y1="301" x2="1528" y2="301" stroke="#d5ddea" stroke-width="2"/>
+
+    <g transform="translate(72,326)">
+      <rect width="710" height="86" rx="5" fill="#f6f8fb"/>
+      <rect width="7" height="86" rx="3" fill="#e31837"/>
+      <text x="28" y="31" fill="#052b63" font-size="17" font-weight="700">1 · Governance, Security and Access Foundation</text>
+      <text x="28" y="59" fill="#6b7b91" font-size="15">DS-001–006 · 6 stories</text>
+    </g>
+    <g transform="translate(818,326)">
+      <rect width="710" height="86" rx="5" fill="#f6f8fb"/>
+      <rect width="7" height="86" rx="3" fill="#e31837"/>
+      <text x="28" y="31" fill="#052b63" font-size="17" font-weight="700">6 · Denial Prioritisation and Evidence</text>
+      <text x="28" y="59" fill="#6b7b91" font-size="15">DS-030–033 · 4 stories</text>
+    </g>
+
+    <g transform="translate(72,426)">
+      <rect width="710" height="86" rx="5" fill="#f6f8fb"/>
+      <rect width="7" height="86" rx="3" fill="#e31837"/>
+      <text x="28" y="31" fill="#052b63" font-size="17" font-weight="700">2 · Governed Data Onboarding and Configuration</text>
+      <text x="28" y="59" fill="#6b7b91" font-size="15">DS-007–011 · 5 stories</text>
+    </g>
+    <g transform="translate(818,426)">
+      <rect width="710" height="86" rx="5" fill="#f6f8fb"/>
+      <rect width="7" height="86" rx="3" fill="#e31837"/>
+      <text x="28" y="31" fill="#052b63" font-size="17" font-weight="700">7 · Appeal Drafting and Approval</text>
+      <text x="28" y="59" fill="#6b7b91" font-size="15">DS-034–040 · 7 stories</text>
+    </g>
+
+    <g transform="translate(72,526)">
+      <rect width="710" height="86" rx="5" fill="#f6f8fb"/>
+      <rect width="7" height="86" rx="3" fill="#e31837"/>
+      <text x="28" y="31" fill="#052b63" font-size="17" font-weight="700">3 · Semantic Query and Grounding Services</text>
+      <text x="28" y="59" fill="#6b7b91" font-size="15">DS-012–019 · 8 stories</text>
+    </g>
+    <g transform="translate(818,526)">
+      <rect width="710" height="86" rx="5" fill="#f6f8fb"/>
+      <rect width="7" height="86" rx="3" fill="#e31837"/>
+      <text x="28" y="31" fill="#052b63" font-size="17" font-weight="700">8 · Audit, Lineage and Evidence</text>
+      <text x="28" y="59" fill="#6b7b91" font-size="15">DS-041–044 · 4 stories</text>
+    </g>
+
+    <g transform="translate(72,626)">
+      <rect width="710" height="86" rx="5" fill="#f6f8fb"/>
+      <rect width="7" height="86" rx="3" fill="#e31837"/>
+      <text x="28" y="31" fill="#052b63" font-size="17" font-weight="700">4 · Executive Insight Surface</text>
+      <text x="28" y="59" fill="#6b7b91" font-size="15">DS-020–025 · 6 stories</text>
+    </g>
+    <g transform="translate(818,626)">
+      <rect width="710" height="86" rx="5" fill="#f6f8fb"/>
+      <rect width="7" height="86" rx="3" fill="#e31837"/>
+      <text x="28" y="31" fill="#052b63" font-size="17" font-weight="700">9 · Operational Readiness and NFR Assurance</text>
+      <text x="28" y="59" fill="#6b7b91" font-size="15">DS-045–049 · 5 stories</text>
+    </g>
+
+    <g transform="translate(72,726)">
+      <rect width="710" height="86" rx="5" fill="#f6f8fb"/>
+      <rect width="7" height="86" rx="3" fill="#e31837"/>
+      <text x="28" y="31" fill="#052b63" font-size="17" font-weight="700">5 · Analyst Workbench</text>
+      <text x="28" y="59" fill="#6b7b91" font-size="15">DS-026–029 · 4 stories</text>
+    </g>
+    <g transform="translate(818,726)">
+      <rect width="710" height="86" rx="5" fill="#f6f8fb"/>
+      <rect width="7" height="86" rx="3" fill="#e31837"/>
+      <text x="28" y="31" fill="#052b63" font-size="17" font-weight="700">10 · Deferred and Excluded Scope</text>
+      <text x="28" y="59" fill="#6b7b91" font-size="15">DS-050–052 · 3 stories</text>
+    </g>
+
+    <circle cx="79" cy="856" r="5" fill="#e31837"/>
+    <text x="96" y="862" fill="#6b7b91" font-size="15">Sanitized from the live Jira structure; no private links, comments, account data, or approval claims included.</text>
+  </g>
+</svg>
