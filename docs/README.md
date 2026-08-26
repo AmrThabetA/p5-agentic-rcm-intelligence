@@ -1,6 +1,7 @@
 # Documentation
 
 - [Architecture and product summary](P5-System-Summary.pdf) — concept document; README status wording takes precedence
+- [Product and delivery document register](library/P5-product-delivery-document-register.pdf) — lifecycle overview and artifact status
 - [BA documentation library](documentation-library.md) — BRD, RTM, RAID, change control, SRS, Jira structure, and the full story catalogue
 - [BA and product scope](ba-product-scope.md)
 - [Product delivery evidence register](delivery-evidence.md)

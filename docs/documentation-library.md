@@ -4,6 +4,10 @@ This index brings the main Business Analysis and product-delivery artifacts into
 
 > **Status:** Draft/pre-baseline portfolio evidence. Publication does not represent stakeholder approval, UAT acceptance, production readiness, or release authorisation. P5 uses synthetic claims data and contains no real patient data.
 
+## Documentation register
+
+[P5 Product and Delivery Document Register](library/P5-product-delivery-document-register.pdf) provides the three-page lifecycle overview: which artifacts exist, which remain planned, their baseline status, and the current Jira/UAT position.
+
 ## Core BA and governance documents
 
 | Artifact | Coverage |
